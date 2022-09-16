@@ -8,3 +8,7 @@
 # to start the project 
 npm install && npm start
 
+#Direct Link
+
+https://astonishing-klepon-8dce80.netlify.app/
+
