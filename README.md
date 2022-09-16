@@ -10,5 +10,5 @@ npm install && npm start
 
 # Direct Link
 
-https://astonishing-klepon-8dce80.netlify.app/
+https://tourlist01.netlify.app/
 
